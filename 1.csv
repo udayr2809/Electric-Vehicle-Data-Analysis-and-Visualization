@@ -1,0 +1,149 @@
+Company,Model,Car,Minimal price (gross) [PLN],Engine power [KM],Maximum torque [Nm],Type of brakes,Drive type,Battery capacity [kWh],Range (WLTP) [km],Wheelbase [cm],Length [cm],Width [cm],Height [cm],Minimal empty weight [kg],Permissable gross weight [kg],Maximum load capacity [kg],Number of seats,Number of doors,Tire size [in],Maximum speed [kph],Boot capacity (VDA) [l],Acceleration 0-100 kph [s],Maximum DC charging power [kW],mean - Energy consumption [kWh/100 km]
+Audi,e-tron 55 quattro,Audi e-tron 55 quattro,345700,360,664,disc (front + rear),4WD,95,438,292.8,490.1,193.5,162.9,2565,3130,640,5,5,19,200,660,5.7,150,24.45
+Audi,e-tron 50 quattro,Audi e-tron 50 quattro,308400,313,540,disc (front + rear),4WD,71,340,292.8,490.1,193.5,162.9,2445,3040,670,5,5,19,190,660,6.8,150,23.8
+Audi,e-tron s quattro,Audi e-tron s quattro,414900,503,973,disc (front + rear),4WD,95,364,292.8,490.2,197.6,162.9,2695,3130,565,5,5,20,210,660,4.5,150,27.55
+Audi,e-tron sportback 50 quattro,Audi e-tron sportback 50 quattro,319700,313,540,disc (front + rear),4WD,71,346,292.8,490.1,193.5,161.6,2445,3040,640,5,5,19,190,615,6.8,150,23.3
+Audi,e-tron sportback 55 quattro,Audi e-tron sportback 55 quattro,357000,360,664,disc (front + rear),,95,447,292.8,490.1,193.5,161.6,2595,3130,670,5,5,19,200,615,5.7,150,23.85
+Audi,e-tron sportback s quattro,Audi e-tron sportback s quattro,426200,503,973,disc (front + rear),,95,369,292.8,490.2,197.6,161.5,2695,3130,565,5,5,20,210,615,4.5,150,27.2
+Audi,q4 e-tron,Audi q4 e-tron,,300,310,disc (front + rear),4WD,,400,,,,,,,,5,,,,,6.3,540,
+Audi,e-tron gt,Audi e-tron gt,,503,630,disc (front + rear),4WD,,425,,,,,,,,4,,,240,,3.5,850,
+Audi,e-tron 50 quattro,Audi e-tron 50 quattro,,313,540,disc (front + rear),4WD,71,280,,,,,,,,5,,,190,,6.8,450,
+Audi,e-tron sportback 55 quattro,Audi e-tron sportback 55 quattro,,360,664,disc (front + rear),4WD,,380,,,,,,,,5,,,200,,5.7,610,
+Audi,e-tron 55 quattro,Audi e-tron 55 quattro,,360,664,,4WD,95,438,,,,,,,,5,,,200,,5.7,590,
+Audi,q4 e-tron,Audi q4 e-tron,,305,310,disc (front + rear),4WD,,410,,,,,,,,5,,,180,,6.3,550,
+Audi,e-tron sportback 50 quattro,Audi e-tron sportback 50 quattro,,313,540,disc (front + rear),4WD,,295,,,,,,,,5,,,190,,6.8,470,
+Audi,e-tron s quattro,Audi e-tron s quattro,,325,973,disc (front + rear),4WD,,320,,,,,,,,5,,,210,,4.5,510,
+Audi,e-tron sportback 55 quattro,Audi e-tron sportback 55 quattro,,305,973,disc (front + rear),4WD,,335,,,,,,,,5,,,210,,4.5,540,
+Bmw,i3,Bmw i3,169700,170,250,disc (front + rear),2WD,42.2,359,257,400.6,179.1,157,1440,1730,440,4,5,19,160,260,8.1,50,13.1
+Bmw,i3s,Bmw i3s,184200,184,270,disc (front + rear),2WD,42.2,345,257,400.6,179.1,159,1460,1730,440,4,5,20,160,260,6.9,50,14.3
+Bmw,ix3,Bmw ix3,282900,286,400,disc (front + rear),2WD,80,460,286.4,473.4,189.1,166.8,2260,2725,540,5,5,19,180,510,6.8,150,18.8
+Bmw,ix3,Bmw ix3,,286,400,disc (front + rear),,,360,,,,,,,,5,,,180,,6.8,560,
+Bmw,i4,Bmw i4,,544,795,disc (front + rear),,,450,,,,,,,,5,,,200,,4,650,
+Bmw,i3 120 ah,Bmw i3 120 ah,,170,250,disc (front + rear),2WD,,235,,,,,,,,4,,,150,,7.3,270,
+Bmw,i3s 120 ah,Bmw i3s 120 ah,,184,270,disc (front + rear),2WD,,230,,,,,,,,4,,,160,,6.9,260,
+Byton,m-byte 95 kwh 4wd,Byton m-byte 95 kwh 4wd,,408,720,,4WD,93.4,390,,,,,,,,5,,,190,,5.5,460,
+Byton,m-byte 72 kwh 2wd,Byton m-byte 72 kwh 2wd,,272,400,disc (front + rear),2WD,,325,,,,,,,,5,,,190,,,420,
+Byton,m-byte 95 kwh 2wd,Byton m-byte 95 kwh 2wd,,272,400,disc (front + rear),4WD,,400,,,,,,,,5,,,190,,,480,
+Citroën,ë-c4,Citroën ë-c4,125000,136,260,disc (front + rear),2WD,50,350,266.7,435.4,180,152.2,1541,2000,459,5,5,16,150,380,9.5,100,
+Citroën,ë-spacetourer (m),Citroën ë-spacetourer (m),215400,136,260,disc (front + rear),2WD,50,230,327.5,459.9,192,190,1969,2810,1056,8,5,16,130,603,13.1,100,25.2
+Citroën,e-c4,Citroën e-c4,,136,260,disc (front + rear),2WD,50,250,,,,,,,,5,,,150,,9.7,380,
+Ds,ds3 crossback e-tense,Ds ds3 crossback e-tense,159900,136,260,disc (front + rear),2WD,50,320,255.8,411.8,255.8,153.4,1523,1975,450,5,5,17,150,350,8.7,,15.6
+Ds,3 crossback e-tense,Ds 3 crossback e-tense,,136,260,disc (front + rear),2WD,50,250,,,,,,,,5,,,150,,8.7,380,
+Fiat,500e hatchback,Fiat 500e hatchback,,118,290,disc (front + rear),2WD,,250,,,,,,,,4,,,150,,9,330,
+Fiat,500e convertible,Fiat 500e convertible,,118,290,disc (front + rear),2WD,,250,,,,,,,,4,,,150,,9,330,
+Ford,mustang mach-e er 2wd,Ford mustang mach-e er 2wd,,266,582,disc (front + rear),2WD,,450,,,,,,,,5,,,180,,7,250,
+Ford,mustang mach-e er 4wd,Ford mustang mach-e er 4wd,,,830,disc (front + rear),4WD,,430,,,,,,,,5,,,180,,6,410,
+Ford,mustang mach-e sr 4wd,Ford mustang mach-e sr 4wd,,266,580,disc (front + rear),4WD,,,,,,,,,,5,,,180,,6,360,
+Ford,mustang mach-e sr 2wd,Ford mustang mach-e sr 2wd,,266,580,disc (front + rear),2WD,,360,,,,,,,,5,,,180,,6.6,380,
+Honda,e,Honda e,152900,136,315,disc (front + rear),2WD,35.5,222,253.8,389.4,175.2,151.2,1514,1855,342,5,5,16,145,171,9,100,17.2
+Honda,e advance,Honda e advance,165900,154,315,disc (front + rear),2WD,35.5,222,253.8,389.4,175.2,151.2,1543,1870,350,5,5,17,145,171,8.3,100,17.5
+Honda,e,Honda e,,154,315,disc (front + rear),2WD,35.5,170,,,,,,,,4,,,145,,9.5,190,
+Honda,e advance,Honda e advance,,154,315,disc (front + rear),2WD,35.5,170,,,,,,,,4,,,145,,8.3,190,
+Hyundai,ioniq electric,Hyundai ioniq electric,184500,136,,disc (front + rear),2WD,38.3,311,270,447,182,147.5,1527,1970,518,5,5,16,165,357,,100,13.8
+Hyundai,kona electric 39.2kwh,Hyundai kona electric 39.2kwh,154400,136,395,disc (front + rear),2WD,39.2,289,260,418,180,157,1535,2020,485,5,5,17,155,332,9.7,100,15
+Hyundai,kona electric 64kwh,Hyundai kona electric 64kwh,178400,204,395,disc (front + rear),,64,449,260,418,180,157,1685,2170,485,5,5,17,167,332,7.6,100,15.4
+Hyundai,kona electric 64 kwh,Hyundai kona electric 64 kwh,,204,395,disc (front + rear),2WD,64,400,,,,,,,,5,,,167,,7.9,380,
+Hyundai,ioniq electric,Hyundai ioniq electric,,136,295,disc (front + rear),2WD,38.3,250,,,,,,,,5,,,165,,9.7,210,
+Hyundai,kona electric 39 kwh,Hyundai kona electric 39 kwh,,136,,disc (front + rear),2WD,39,255,,,,,,,,5,,,155,,9.9,210,
+Jaguar,i-pace,Jaguar i-pace,359500,400,696,disc (front + rear),4WD,90,470,299,468.2,201.1,155.6,2208,2670,537,5,5,20,200,656,4.8,100,21.2
+Jaguar,i-pace,Jaguar i-pace,,400,696,disc (front + rear),4WD,90,365,,,,,,,,5,,,200,,4.8,340,
+Kia,e-niro 39.2kwh,Kia e-niro 39.2kwh,146990,136,395,disc (front + rear),2WD,39.2,289,270,437.5,180.5,156,1592,2080,488,5,5,17,155,451,9.8,100,15.3
+Kia,e-niro 64kwh,Kia e-niro 64kwh,167990,204,395,disc (front + rear),2WD,64,455,270,437.5,180.5,156,1737,2230,493,5,5,17,167,451,7.8,100,15.9
+Kia,e-soul 39.2kwh,Kia e-soul 39.2kwh,139900,136,395,disc (front + rear),2WD,39.2,276,260,419.5,180,160.5,1535,1682,490,5,5,17,157,315,9.9,100,15.6
+Kia,e-soul 64kwh,Kia e-soul 64kwh,160990,204,395,disc (front + rear),2WD,64,452,260,419.5,180,160.5,1535,1682,498,5,5,17,167,315,7.9,100,15.7
+Kia,e-niro 64 kwh,Kia e-niro 64 kwh,,204,395,disc (front + rear),2WD,64,370,,,,,,,,5,,,167,,7.8,350,
+Kia,e-soul 64 kwh,Kia e-soul 64 kwh,,204,395,disc (front + rear),2WD,64,365,,,,,,,,5,,,167,,,340,
+Kia,e-niro 39 kwh,Kia e-niro 39 kwh,,136,395,disc (front + rear),2WD,39.2,235,,,,,,,,5,,,155,,9.8,230,
+Kia,e-soul 64 kwh,Kia e-soul 64 kwh,,204,395,disc (front + rear),,64,365,,,,,,,,5,,,167,,,320,
+Kia,e-soul 39 kwh,Kia e-soul 39 kwh,,136,395,disc (front + rear),,39.2,230,,,,,,,,5,,,157,,9.9,220,
+Lightyear,one,Lightyear one,,490,650,,4WD,,575,,,,,,,,5,,,150,,10,540,
+Mazda,mx-30,Mazda mx-30,142900,145,270,disc (front + rear),2WD,35.5,200,265.5,439.5,179.5,155.5,1645,2119,474,5,5,18,140,350,9.7,37,14.5
+Mazda,mx-30,Mazda mx-30,,145,270,disc (front + rear),2WD,36,180,,,,,,,,5,,,150,,9,240,
+Mercedes,eqc 400 4matic,Mercedes eqc 400 4matic,,300,760,disc (front + rear),4WD,,370,,,,,,,,5,,,180,,5.1,440,
+Mercedes,eqa,Mercedes eqa,,190,,disc (front + rear),4WD,,350,,,,,,,,5,,,200,,5,440,
+Mercedes,eqv 300 long,Mercedes eqv 300 long,,204,362,,2WD,,330,,,,,,,,7,,,140,,10,290,
+Mercedes,eqc,Mercedes eqc,334700,408,760,disc (front + rear),4WD,80,414,287.3,476.2,188.4,162.4,2495,2940,445,5,5,19,180,500,5.1,110,21.85
+Mercedes,eqv (long),Mercedes eqv (long),339480,204,362,disc (front + rear),2WD,90,356,320,514,192.8,191,2710,3500,865,6,5,17,160,,,110,28.2
+Mini,cooper se,Mini cooper se,139900,184,270,disc (front + rear),2WD,28.9,234,249.5,384.5,172.7,143.2,1300,1770,480,4,3,16,150,211,7.3,50,16.75
+Mini,cooper se,Mini cooper se,,184,270,disc (front + rear),2WD,26,185,,,,,,,,4,,,150,,7.3,260,
+Nissan,leaf,Nissan leaf,122900,150,320,disc (front + rear),2WD,40,270,270,449,178.8,153,1545,1995,450,5,5,16,144,435,7.9,50,18.5
+Nissan,leaf e+,Nissan leaf e+,164000,217,340,disc (front + rear),2WD,62,385,270,449,178.8,154.5,1705,2140,435,5,5,17,157,435,6.9,100,17.1
+Nissan,e-nv200 evalia,Nissan e-nv200 evalia,164328,109,254,disc (front + rear),2WD,40,,272.5,456,175.5,185.8,1592,2250,658,5,5,15,123,870,,50,25.9
+Nissan,leaf,Nissan leaf,,150,320,disc (front + rear),2WD,40,,,,,,,,,5,,,144,,7.9,230,
+Nissan,leaf e+,Nissan leaf e+,,,340,disc (front + rear),2WD,62,325,,,,,,,,5,,,157,,7.3,390,
+Nissan,ariya 87kwh,Nissan ariya 87kwh,,238,600,disc (front + rear),2WD,,440,,,,,,,,5,,,160,,7.6,520,
+Nissan,e-nv200 evalia,Nissan e-nv200 evalia,,490,600,disc (front + rear),2WD,93.4,190,,,,,,,,7,,,123,,14,190,
+Nissan,ariya e-4orce 87kwh,Nissan ariya e-4orce 87kwh,,238,600,disc (front + rear),4WD,,420,,,,,,,,5,,,200,,5.7,500,
+Nissan,ariya 63kwh,Nissan ariya 63kwh,,238,300,disc (front + rear),2WD,,330,,,,,,,,5,,,160,,7.5,440,
+Nissan,ariya e-4orce 63kwh,Nissan ariya e-4orce 63kwh,,238,300,disc (front + rear),4WD,,325,,,,,,,,5,,,200,,5.9,440,
+Nissan,ariya e-4orce 87kwh performance,Nissan ariya e-4orce 87kwh performance,,238,600,disc (front + rear),4WD,,375,,,,,,,,5,,,200,,5.1,450,
+Opel,corsa-e,Opel corsa-e,128900,136,225,disc (front + rear),2WD,50,337,253.8,406,176.5,143.3,1530,1916,367,5,5,16,150,267,8.1,100,16.65
+Opel,mokka-e,Opel mokka-e,139900,136,245,disc (front + rear),2WD,50,324,256.1,415.1,179.1,153.2,1598,2015,417,5,5,16,150,310,9,100,17.6
+Opel,corsa-e,Opel corsa-e,,136,510,disc (front + rear),2WD,50,275,,,,,,,,5,,,150,,8.1,420,
+Opel,ampera-e,Opel ampera-e,,136,1320,disc (front + rear),2WD,50,335,,,,,,,,5,,,150,,7.3,210,
+Opel,mokka-e,Opel mokka-e,,136,1000,disc (front + rear),2WD,50,255,,,,,,,,5,,,150,,8.5,390,
+Peugeot,e-208,Peugeot e-208,124900,136,660,disc (front + rear),2WD,50,340,254,405.5,174.5,143,1455,1918,463,5,5,16,150,311,8.1,100,16.4
+Peugeot,e-2008,Peugeot e-2008,149400,136,660,disc (front + rear),2WD,50,320,260.5,430,177,153,1548,,,5,5,16,150,434,,100,
+Peugeot,e-208,Peugeot e-208,,136,660,disc (front + rear),2WD,50,275,,,,,,,,5,,,150,,8.1,420,
+Peugeot,e-2008 suv,Peugeot e-2008 suv,,136,440,disc (front + rear),2WD,50,250,,,,,,,,5,,,150,,8.5,380,
+Porsche,taycan 4s (performance),Porsche taycan 4s (performance),457000,435,640,disc (front + rear),4WD,79.2,407,290,496.3,196.6,137.9,2215,2880,740,4,4,19,250,488,4,225,23.4
+Porsche,taycan 4s (performance plus),Porsche taycan 4s (performance plus),482283,490,650,disc (front + rear),4WD,93.4,463,290,496.3,196.6,137.9,2295,2880,660,4,4,19,250,488,4,270,24.1
+Porsche,taycan turbo,Porsche taycan turbo,653000,625,850,disc (front + rear),4WD,93.4,450,290,496.3,196.6,138.1,2380,2880,575,4,4,20,260,447,3.2,270,24.85
+Porsche,taycan turbo s,Porsche taycan turbo s,794000,625,1050,disc (front + rear),4WD,93.4,412,290,496.3,196.6,137.8,2370,2870,575,4,4,21,260,447,2.8,270,25.1
+Porsche,taycan turbo s,Porsche taycan turbo s,,625,1050,disc (front + rear),4WD,93.4,375,,,,,,,,4,,,260,,2.8,780,
+Porsche,taycan 4s,Porsche taycan 4s,,435,640,disc (front + rear),4WD,79.2,365,,,,,,,,4,,,250,,4,730,
+Porsche,taycan 4s plus,Porsche taycan 4s plus,,490,650,disc (front + rear),4WD,93.4,425,,,,,,,,4,,,250,,4,890,
+Porsche,taycan cross turismo,Porsche taycan cross turismo,,375,1050,disc (front + rear),4WD,93.4,385,,,,,,,,4,,,250,,3.5,770,
+Porsche,taycan turbo,Porsche taycan turbo,,625,1050,disc (front + rear),4WD,93.4,390,,,,,,,,4,,,260,,3.2,810,
+Renault,zoe r110,Renault zoe r110,135900,108,225,disc (front + rear),2WD,52,395,258.8,408.5,178.7,156.2,1502,1988,425,5,5,15,135,338,11.4,,16.5
+Renault,zoe r135,Renault zoe r135,142900,135,245,disc (front + rear),2WD,52,395,258.8,408.5,178.7,156.2,1502,1988,486,5,5,16,140,338,9.5,50,16.5
+Renault,zoe ze50 r110,Renault zoe ze50 r110,,108,225,disc (front + rear),2WD,52,315,,,,,,,,5,,,135,,11.4,230,
+Renault,zoe ze50 r135,Renault zoe ze50 r135,,135,245,disc (front + rear),2WD,52,310,,,,,,,,5,,,140,,9.5,230,
+Renault,twingo ze,Renault twingo ze,,60,160,disc (front + rear),2WD,52,130,,,,,,,,4,,,135,,12.6,,
+Renault,zoe ze40 r110,Renault zoe ze40 r110,,108,225,disc (front + rear),2WD,52,255,,,,,,,,5,,,135,,11.4,230,
+Renault,kangoo maxi ze 33,Renault kangoo maxi ze 33,,44,225,disc (front + rear),2WD,52,160,,,,,,,,5,,,130,,22.4,,
+Skoda,citigo-e iv,Skoda citigo-e iv,82050,83,212,disc (front) + drum (rear),2WD,36.8,260,242.2,359.7,164.5,148.1,1178,1530,367,4,5,14,130,250,12.3,40,15.45
+Skoda,enyaq iv 50,Skoda enyaq iv 50,,50,220,disc (front) + drum (rear),2WD,,290,,,,,,,,5,,,160,,10,230,
+Skoda,citigoe iv,Skoda citigoe iv,,61,212,disc (front) + drum (rear),2WD,,195,,,,,,,,4,,,130,,12.3,170,
+Skoda,enyaq iv 80,Skoda enyaq iv 80,,150,310,disc (front) + drum (rear),2WD,,420,,,,,,,,5,,,160,,8.8,560,
+Skoda,enyaq iv 80x,Skoda enyaq iv 80x,,195,425,disc (front) + drum (rear),4WD,,400,,,,,,,,5,,,160,,7,540,
+Skoda,enyaq iv vrs,Skoda enyaq iv vrs,,225,460,disc (front) + drum (rear),4WD,,400,,,,,,,,5,,,180,,6.2,540,
+Skoda,enyaq iv 60,Skoda enyaq iv 60,,132,310,disc (front) + drum (rear),2WD,,320,,,,,,,,5,,,160,,9,440,
+Smart,fortwo eq,Smart fortwo eq,96900,82,160,disc (front) + drum (rear),2WD,17.6,154,187.3,269.5,166.3,155.5,1035,1310,290,2,3,15,130,185,11.6,22,16.35
+Smart,forfour eq,Smart forfour eq,98900,82,160,disc (front) + drum (rear),2WD,17.6,148,249.4,349.5,166.5,155.4,1140,1570,445,4,5,15,130,260,12.7,22,17
+Smart,eq forfour,Smart eq forfour,,82,160,disc (front) + drum (rear),2WD,17.6,95,,,,,,,,4,,,130,,12.7,,
+Smart,eq fortwo coupe,Smart eq fortwo coupe,,82,160,disc (front) + drum (rear),2WD,17.6,100,,,,,,,,2,,,130,,11.6,,
+Smart,eq fortwo cabrio,Smart eq fortwo cabrio,,82,160,disc (front) + drum (rear),2WD,17.6,95,,,,,,,,2,,,130,,11.9,,
+Tesla,model 3 standard range plus,Tesla model 3 standard range plus,195490,285,450,disc (front + rear),2WD,54,430,287.5,469,193,144,1626,,,5,5,18,225,425,5.6,150,
+Tesla,model 3 long range,Tesla model 3 long range,235490,372,510,disc (front + rear),4WD,75,580,287.5,469,193,144,1862,,,5,5,18,233,425,4.4,150,
+Tesla,model 3 performance,Tesla model 3 performance,260490,480,639,disc (front + rear),4WD,75,567,287.5,469,193,144,1862,,,5,5,20,261,425,3.3,150,
+Tesla,model s long range plus,Tesla model s long range plus,368990,525,755,disc (front + rear),4WD,100,652,296,497.9,196.4,144.5,2391,,,5,5,19,250,745,3.8,150,
+Tesla,model s performance,Tesla model s performance,443990,772,1140,disc (front + rear),4WD,100,639,296,497.9,196.4,144.5,2417,,,5,5,21,261,745,2.5,150,
+Tesla,model x long range plus,Tesla model x long range plus,407990,525,755,disc (front + rear),4WD,100,561,296.5,503.7,207,162.6,2464,,,7,5,20,250,857,4.6,150,
+Tesla,model x performance,Tesla model x performance,482990,772,1140,disc (front + rear),4WD,100,548,296.5,503.7,207,162.6,2524,,,7,5,20,261,857,2.8,150,
+Tesla,model 3 long range dual motor,Tesla model 3 long range dual motor,,525,755,disc (front + rear),4WD,,450,,,,,,,,5,,,233,,4.6,940,
+Tesla,model 3 standard range plus,Tesla model 3 standard range plus,,211,510,disc (front + rear),2WD,,310,,,,,,,,5,,,225,,5.6,650,
+Tesla,model y long range dual motor,Tesla model y long range dual motor,,525,755,disc (front + rear),4WD,,425,,,,,,,,7,,,217,,5.1,930,
+Tesla,model 3 long range dual motor,Tesla model 3 long range dual motor,,525,755,disc (front + rear),4WD,,435,,,,,,,,5,,,261,,3.4,910,
+Tesla,cybertruck tri motor,Tesla cybertruck tri motor,,850,1328,disc (front + rear),4WD,,750,,,,,,,,6,,,210,,3,710,
+Tesla,model s long range,Tesla model s long range,,772,1140,disc (front + rear),4WD,,515,,,,,,,,5,,,250,,3.8,560,
+Tesla,roadster,Tesla roadster,,1100,10000,disc (front + rear),4WD,,970,,,,,,,,4,,,410,,2.1,920,
+Tesla,model x long range,Tesla model x long range,,670,966,disc (front + rear),4WD,,450,,,,,,,,7,,,250,,4.6,490,
+Tesla,model s performance,Tesla model s performance,,772,1140,disc (front + rear),4WD,,505,,,,,,,,5,,,261,,2.5,550,
+Tesla,model y long range dual motor,Tesla model y long range dual motor,,525,755,disc (front + rear),4WD,,410,,,,,,,,7,,,241,,3.7,900,
+Tesla,cybertruck dual motor,Tesla cybertruck dual motor,,690,1050,disc (front + rear),4WD,,460,,,,,,,,6,,,190,,5,710,
+Tesla,model x performance,Tesla model x performance,,760,966,disc (front + rear),4WD,,440,,,,,,,,7,,,250,,2.8,480,
+Tesla,cybertruck single motor,Tesla cybertruck single motor,,360,1050,,2WD,,390,,,,,,,,6,,,180,,7,740,
+Volkswagen,e-up!,Volkswagen e-up!,97990,83,210,disc (front) + drum (rear),2WD,32.3,258,241.7,360,164.5,149.2,1235,1530,370,4,5,14,130,250,11.9,40,14
+Volkswagen,id.3 pro performance,Volkswagen id.3 pro performance,155890,204,310,disc (front) + drum (rear),2WD,58,425,277,426.1,180.9,156.8,1805,2270,540,5,5,18,160,385,7.3,100,15.4
+Volkswagen,id.3 pro s,Volkswagen id.3 pro s,179990,204,310,disc (front) + drum (rear),2WD,77,549,277,426.1,180.9,156.8,1934,2280,412,5,5,19,160,385,7.9,125,15.9
+Volkswagen,id.4 1st,Volkswagen id.4 1st,202390,204,310,disc (front) + drum (rear),2WD,77,500,277.1,458.4,185.2,163.1,2124,2660,661,5,5,20,160,543,8.5,125,18
+Volkswagen,id.3 pure,Volkswagen id.3 pure,,204,310,disc (front) + drum (rear),2WD,,270,,,,,,,,5,,,160,,10,250,
+Volkswagen,e-golf,Volkswagen e-golf,,,310,disc (front) + drum (rear),2WD,,190,,,,,,,,5,,,150,,9.6,220,
+Volkswagen,id.3 pro s,Volkswagen id.3 pro s,,150,310,disc (front) + drum (rear),2WD,,440,,,,,,,,4,,,160,,7.9,590,
+Volkswagen,e-up!,Volkswagen e-up!,,83,210,disc (front) + drum (rear),2WD,93.4,195,,,,,,,,4,,,130,,11.9,170,
+Volkswagen,id.4,Volkswagen id.4,,150,310,disc (front) + drum (rear),2WD,,420,,,,,,,,5,,,,,7.5,560,
+Volkswagen,id.3 pro,Volkswagen id.3 pro,,204,310,disc (front) + drum (rear),2WD,,350,,,,,,,,5,,,160,,9,490,
+Volkswagen,id.3 1st,Volkswagen id.3 1st,,204,310,disc (front) + drum (rear),2WD,93.4,340,,,,,,,,5,,,160,,7.3,470,
+Volkswagen,id.3 pro performance,Volkswagen id.3 pro performance,,204,310,disc (front) + drum (rear),2WD,,340,,,,,,,,5,,,160,,7.3,470,
+Volvo,xc40 p8 4wd recharge,Volvo xc40 p8 4wd recharge,,150,310,,4WD,,375,,,,,,,,5,,,180,,4.9,470,
